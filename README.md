@@ -1,3 +1,3 @@
 # code_review
 code review
-~~~습니다.
+습니다.
